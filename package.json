@@ -1,0 +1,24 @@
+{
+  "name": "restaurant_updated",
+  "version": "1.0.0",
+  "description": "This is a Project for The Odin Project webpack practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjindergit/restaurant_updated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjindergit/restaurant_updated/issues"
+  },
+  "homepage": "https://github.com/Manjindergit/restaurant_updated#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
